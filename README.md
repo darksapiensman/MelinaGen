@@ -1,2 +1,2 @@
 # MelinaGen
-My first public project
+MeinaGen is a OpenSource Code Generator Tool for OpenXava
